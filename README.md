@@ -25,4 +25,4 @@ This project focuses on clean UI design, component reusability, and scalable fro
 - **Axios** – API requests
 - **Font Awesome** – Icons
 - **ESLint** – Code quality and linting
->>>>>>> 53674ca3de3905c25bdbd062382e233b5b158ece
+
